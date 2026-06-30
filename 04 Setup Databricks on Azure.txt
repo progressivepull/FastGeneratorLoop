@@ -1,0 +1,26 @@
+Question 1
+Which cloud providers currently support Databricks deployments?
+A. AWS, Oracle Cloud, IBM Cloud
+B. AWS, Microsoft Azure, Google Cloud Platform (GCP)
+C. Azure, VMware Cloud, Oracle Cloud
+D. Azure, DigitalOcean, IBM Cloud
+E. AWS, Alibaba Cloud, Oracle Cloud
+Correct Answer: B. AWS, Microsoft Azure, Google Cloud Platform (GCP)
+________________________________________
+Question 2
+Which Azure subscription type is required to deploy Azure Databricks?
+A. Azure Free Trial subscription
+B. Student subscription only
+C. Enterprise Agreement only
+D. Pay-As-You-Go subscription
+E. MSDN subscription only
+Correct Answer: D. Pay-As-You-Go subscription
+________________________________________
+Question 3
+Which permission level is required to create an Azure Databricks workspace?
+A. Reader
+B. Storage Blob Contributor
+C. Contributor
+D. Owner of the Azure tenant only
+E. Billing Administrator
+Correct Answer: C. Contributor

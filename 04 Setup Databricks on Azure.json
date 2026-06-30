@@ -1,0 +1,96 @@
+{
+  "config": {
+    "version": "",
+    "exam_name": "",
+    "link_base_url": "",
+    "link_folder_name": "",
+    "link_file_name": "",
+    "link_terms": "",
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "time_limit_minutes": 60
+  },
+  "questions": [
+    {
+      "id": 1,
+      "problem_description": [],
+      "question": [
+        {
+          "line": "Which cloud providers currently support Databricks deployments?"
+        }
+      ],
+      "options": {
+        "A": "AWS, Oracle Cloud, IBM Cloud",
+        "B": "AWS, Microsoft Azure, Google Cloud Platform (GCP)",
+        "C": "Azure, VMware Cloud, Oracle Cloud",
+        "D": "Azure, DigitalOcean, IBM Cloud",
+        "E": "AWS, Alibaba Cloud, Oracle Cloud"
+      },
+      "answer": "B",
+      "resource": {
+        "code": {
+          "lines": [
+            {
+              "line": ""
+            }
+          ],
+          "language": ""
+        }
+      }
+    },
+    {
+      "id": 2,
+      "problem_description": [],
+      "question": [
+        {
+          "line": "Which Azure subscription type is required to deploy Azure Databricks?"
+        }
+      ],
+      "options": {
+        "A": "Azure Free Trial subscription",
+        "B": "Student subscription only",
+        "C": "Enterprise Agreement only",
+        "D": "Pay-As-You-Go subscription",
+        "E": "MSDN subscription only"
+      },
+      "answer": "D",
+      "resource": {
+        "code": {
+          "lines": [
+            {
+              "line": ""
+            }
+          ],
+          "language": ""
+        }
+      }
+    },
+    {
+      "id": 3,
+      "problem_description": [],
+      "question": [
+        {
+          "line": "Which permission level is required to create an Azure Databricks workspace?"
+        }
+      ],
+      "options": {
+        "A": "Reader",
+        "B": "Storage Blob Contributor",
+        "C": "Contributor",
+        "D": "Owner of the Azure tenant only",
+        "E": "Billing Administrator"
+      },
+      "answer": "C",
+      "resource": {
+        "code": {
+          "lines": [
+            {
+              "line": ""
+            }
+          ],
+          "language": ""
+        }
+      }
+    }
+  ]
+}
