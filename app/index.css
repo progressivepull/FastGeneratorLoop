@@ -50,12 +50,20 @@ footer {
 }
 button{
     padding:10px 20px;
-    margin-top:15px;
     cursor:pointer;
+	margin: 10px;
 }
 textarea{
     width:100%;
     height:400px;
     margin-top:20px;
     font-family:Consolas,monospace;
+}
+
+#fileLabel {
+    background-color: yellow;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
 }

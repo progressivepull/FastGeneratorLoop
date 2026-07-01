@@ -49,15 +49,16 @@
     <div class="container mt-5">
 
 
-	<h2>TXT Quiz → JSON Converter</h2>
+	<h2 class="monaco-bold" >TXT Quiz → JSON Converter</h2>
 
-	<input type="file" id="txtFile" accept=".txt">
+	<label for="txtFile" id="fileLabel" class="btn btn-warning">Choose File</label>
+    <input type="file" id="txtFile" accept=".txt" style="display:none;">
 
 	<br>
 
-	<button id="convertBtn">Convert</button>
+	<button style="margin: 10px" id="convertBtn" class="btn btn-primary">Convert</button>
 
-	<button id="downloadBtn" disabled>Download JSON</button>
+	<button id="downloadBtn" disabled class="btn btn-success">Download JSON</button>
 
 	<textarea id="output" placeholder="JSON output..."></textarea>
 
